@@ -1,0 +1,15 @@
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\bin\Debug\net6.0\DomZad3.exe
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\bin\Debug\net6.0\DomZad3.deps.json
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\bin\Debug\net6.0\DomZad3.runtimeconfig.json
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\bin\Debug\net6.0\DomZad3.dll
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\bin\Debug\net6.0\DomZad3.pdb
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\obj\Debug\net6.0\DomZad3.csproj.AssemblyReference.cache
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\obj\Debug\net6.0\DomZad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\obj\Debug\net6.0\DomZad3.AssemblyInfoInputs.cache
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\obj\Debug\net6.0\DomZad3.AssemblyInfo.cs
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\obj\Debug\net6.0\DomZad3.csproj.CoreCompileInputs.cache
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\obj\Debug\net6.0\DomZad3.dll
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\obj\Debug\net6.0\refint\DomZad3.dll
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\obj\Debug\net6.0\DomZad3.pdb
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\obj\Debug\net6.0\DomZad3.genruntimeconfig.cache
+C:\Users\Oleg1417\Desktop\C#DomZad3\DomZad3\obj\Debug\net6.0\ref\DomZad3.dll
